@@ -1,0 +1,647 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{paris_arrondissement}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{L’arrondissement municipal désigne une partition de la commune de Paris.Délimitation des arrondissements : le décret impérial du 1er novembre 1859 fixe les dénominations des vingt arrondissements de la ville de Paris. Les communes de Lyon et Marseille présentent également une organisation administrative en arrondissements.~Contraintes géographiques et topologiques :Un arrondissement est formé d’un seul polygone. La couche graphique respecte une topologie de surfaces. La cohérence topologique se caractérise par l’absence de « trou » ou de « chevauchement » entre arrondissements.}
+      \field{langid}{french}
+      \field{title}{{Arrondissements Paris}}
+      \field{urlday}{12}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/UR57BSAZ/export.html
+      \endverb
+      \verb{urlraw}
+      \verb https://opendata.paris.fr/explore/dataset/arrondissements/export/?location=13,48.85156,2.32327
+      \endverb
+      \verb{url}
+      \verb https://opendata.paris.fr/explore/dataset/arrondissements/export/?location=13,48.85156,2.32327
+      \endverb
+    \endentry
+    \entry{bridson2007}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65c851dceea4db6bd4213d41182ae6d3}{%
+           family={Bridson},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San Diego California}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{65c851dceea4db6bd4213d41182ae6d3}
+      \strng{fullhash}{65c851dceea4db6bd4213d41182ae6d3}
+      \strng{bibnamehash}{65c851dceea4db6bd4213d41182ae6d3}
+      \strng{authorbibnamehash}{65c851dceea4db6bd4213d41182ae6d3}
+      \strng{authornamehash}{65c851dceea4db6bd4213d41182ae6d3}
+      \strng{authorfullhash}{65c851dceea4db6bd4213d41182ae6d3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In many applications in graphics, particularly rendering, generating samples from a blue noise distribution is important. However, existing efficient techniques do not easily generalize beyond two dimensions. Here I demonstrate a simple modification to dart throwing which permits generation of Poisson disk samples in O(N ) time, easily implemented in arbitrary dimension.}
+      \field{booktitle}{{{ACM SIGGRAPH}} 2007 sketches}
+      \field{isbn}{978-1-4503-4726-6}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Fast {{Poisson}} disk sampling in arbitrary dimensions}
+      \field{urlday}{12}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{22}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/1278780.1278807
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/I5XUSX2N/Bridson - 2007 - Fast Poisson disk sampling in arbitrary dimensions.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1278780.1278807
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1278780.1278807
+      \endverb
+    \endentry
+    \entry{cheng2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d84a6e3f63d7ba61340a9f0c2de3877d}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Shaowu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85a65c4ae2b08a0028b28091e3c7875f}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Bing},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4602954752550d455d7eb3bd97ed4b22}{%
+           family={Bie},
+           familyi={B\bibinitperiod},
+           given={Yiming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58825f15b3477014f8e4d5ccd46c15ff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yaping},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55d7519ea65a9df65a1c4d1e7e37c304}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5cff1d4a31e99b5c1ba09aeb65e64634}
+      \strng{fullhash}{878f153e74fed468211b800bb4b9ad8a}
+      \strng{bibnamehash}{5cff1d4a31e99b5c1ba09aeb65e64634}
+      \strng{authorbibnamehash}{5cff1d4a31e99b5c1ba09aeb65e64634}
+      \strng{authornamehash}{5cff1d4a31e99b5c1ba09aeb65e64634}
+      \strng{authorfullhash}{878f153e74fed468211b800bb4b9ad8a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The spatial–temporal accessibility of a transport system assesses the spatial–temporal constraints faced by individuals based on their fixed activities and the ability of the transport system to facilitate trading time for space in movement. Previous studies either measured the individual spatial–temporal accessibility of a general transport network or measured the cumulative-opportunity accessibility by public transit through an exclusive computation of the bottom of the full network time prism. By contrast, the current study measures the individual spatial–temporal accessibility by public transit by integrating timetable and passenger departure time and computing the full network time prism. A public transit network is modelled as a time-dependent weighted directed graph, wherein every single directed arc is associated with a time-dependent travel time to represent the linkage between two adjacent stops on a transit route. The time-dependent travel time assigned to arcs is determined according to timetables, which is particularly assigned to infinity when transit service is unavailable between two stops. A modified network potential path area (N-PPA) algorithm based on the time-dependent weighted directed graph is employed to produce a potential path area for the activity participation of an individual by public transit. The proposed methodology is applied as a case study to measure individual spatial–temporal accessibility using the Salt Lake City TRAX system. Results indicate that the outcome of the proposed methodology is sensitive to departure time of passengers. The results of this study provide suggestions on potential improvement of bus/rail line layout and timetables and may aid in trip planning of passengers.}
+      \field{issn}{0966-6923}
+      \field{journaltitle}{Journal of Transport Geography}
+      \field{month}{1}
+      \field{shorttitle}{Measure dynamic individual spatial-temporal accessibility by public transit}
+      \field{title}{Measure dynamic individual spatial-temporal accessibility by public transit: {{Integrating}} time-table and passenger departure time}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{66}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{235\bibrangedash 247}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jtrangeo.2017.12.005
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/ZL4XAH4Y/S0966692317302235.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0966692317302235
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0966692317302235
+      \endverb
+      \keyw{Land use,Public transit operation,Public transit planning,Sustainable transport,Trip planning}
+    \endentry
+    \entry{espaces_verts}{misc}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cette couche surfacique localise géographiquement l'emprise des espaces verts publics (parcs, squares, promenades etc...) gérés par la Ville de Paris.CodeType espace vertDescriptif1Promenades ouvertesEspaces verts (parcs, jardins ou squares) situés sur le domaine affecté à la~DEVE~ou avec convention avec la Ville sur tout autre domaine.2Jardinets décoratifsEspaces verts (parcs, jardins ou squares) situés sur le domaine affecté à la~DEVE~ou avec convention avec la Ville sur tout autre domaine, ayant un caractère exclusivement décoratifs.3Décorations sur la voie publiqueRegroupe l'ensemble des décorations de pleine terre et des jardinières fixes ou mobiles situées sur le domaine de la voie publique (voirie ou piétonnier) affecté à la Direction de la voirie.4Jardins privatifsEspaces verts situés sur le domaine de gestion privé de la ville, relevant d'organismes publics ou privés, non assujettis à la réglementation de la~DEVE~mais entretenus par ses services.5Etablissements~ ~sportifsEspaces verts situés dans les établissements sportifs, sur le domaine affecté à la Direction de la Jeunesse et des Sports.6CimetièresDomaine affecté à la DEVE7Etablissements~ ~scolairesEspaces verts situés dans les établissements municipaux ou départementaux sur le domaine affecté à la Direction des Affaires Scolaires.8Etablissements de garde d'enfantsEspaces verts situés dans les crèches, garderies et jardins d'enfants,9PériphériqueRegroupe l'ensemble des espaces verts situés dans l'emprise du boulevard périphérique10BoisRegroupe les bois de Boulogne, Vincennes et le domaine de Beauregard.11Ephémères, partagés, pédagogiques12Centre HorticoleRegroupe les centres de production horticole de la DEVE13Murs végétalisésIl est fourni deux informations sur la surface :- Surface totale réelleCelle-ci correspond à la surface "terrain"- Surface calculéeCelle-ci est calculée automatiquement et correspond à la surface du polygone.~Les valeurs peuvent être différentes entre les 2 colonnes.Les valeurs "zéro" affichées dans "Surface totale réelle" correspondent à des talus, murs végétalisés ou espaces verts en projet pour lesquels la surface réelle n'est pas (ou pas encore) calculée.}
+      \field{langid}{french}
+      \field{title}{{Espaces verts et assimilés}}
+      \field{urlday}{12}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/DCPCLJ5J/export.html
+      \endverb
+      \verb{urlraw}
+      \verb https://opendata.paris.fr/explore/dataset/espaces_verts/export/
+      \endverb
+      \verb{url}
+      \verb https://opendata.paris.fr/explore/dataset/espaces_verts/export/
+      \endverb
+    \endentry
+    \entry{fransen2015}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=a03c97633139fd4c2182abbc45b193a7}{%
+           family={Fransen},
+           familyi={F\bibinitperiod},
+           given={Koos},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fb462d364fc70d73021958a5383677c}{%
+           family={Neutens},
+           familyi={N\bibinitperiod},
+           given={Tijs},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83dce69100604cb418738d6756a22ea7}{%
+           family={Farber},
+           familyi={F\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2449ae652dbc0689f3c5c844f0601f6}{%
+           family={De\bibnamedelima Maeyer},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91f602642bfac89b0e780d13774ee20a}{%
+           family={Deruyter},
+           familyi={D\bibinitperiod},
+           given={Greet},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f24aa7334fd0c65c5e96510112b1f66}{%
+           family={Witlox},
+           familyi={W\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34dfd2907f203950cf7e048a645a5290}
+      \strng{fullhash}{267549d4026006f2caf3fb4ba8f165d1}
+      \strng{bibnamehash}{34dfd2907f203950cf7e048a645a5290}
+      \strng{authorbibnamehash}{34dfd2907f203950cf7e048a645a5290}
+      \strng{authornamehash}{34dfd2907f203950cf7e048a645a5290}
+      \strng{authorfullhash}{267549d4026006f2caf3fb4ba8f165d1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One of the concerns that has aroused much scholarly attention in transport geography lately is the extent to which public transport provision enables the less privileged population segments, especially those without privately owned motorized vehicles, to participate in activities that are deemed normal within the society they live in. This study contributes to this line of inquiry by proposing a methodology for identifying public transit gaps, a mismatch between the socially driven demand for transit and the supply provided by transit agencies. The methodology draws on the latest accomplishments in the field of modeling time-continuous, schedule-based public transport accessibility. Accessibility levels to key destinations are calculated at regular time intervals, and synoptic metrics of these levels over various peak and off-peak time windows are computed for weekdays and weekends. As a result, a temporally reliable picture of accessibility by public transport is constructed. The obtained index of public transport provision is compared to a public transport needs index based on the spatial distribution of various socio-demographics, in order to highlight spatial mismatches between these two indices. The study area consists of Flanders, which is the northern, Dutch-speaking region of Belgium. The results indicate that mainly suburban areas are characterized by high public transport gaps. Due to the time-variability of public transport frequencies, these gaps differ over time.}
+      \field{issn}{0966-6923}
+      \field{journaltitle}{Journal of Transport Geography}
+      \field{month}{10}
+      \field{title}{Identifying public transport gaps using time-dependent accessibility levels}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{48}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{176\bibrangedash 187}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.jtrangeo.2015.09.008
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/JRV6VAKE/Fransen et al. - 2015 - Identifying public transport gaps using time-dependent accessibility levels.pdf;/Users/sava/Zotero/storage/PRZ27K65/S0966692315001714.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0966692315001714
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0966692315001714
+      \endverb
+      \keyw{Flanders,GIS,Public transport,Social exclusion,Transport disadvantage,Transport gap}
+    \endentry
+    \entry{hine2017}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3962be3635238c4308e54158d52e2d8d}{%
+           family={Hine},
+           familyi={H\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0653bdc7c413e04e70bdfd4232175dfd}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{fbd7a782154ccf24dd997de7e57e8b2a}
+      \strng{fullhash}{fbd7a782154ccf24dd997de7e57e8b2a}
+      \strng{bibnamehash}{fbd7a782154ccf24dd997de7e57e8b2a}
+      \strng{authorbibnamehash}{fbd7a782154ccf24dd997de7e57e8b2a}
+      \strng{authornamehash}{fbd7a782154ccf24dd997de7e57e8b2a}
+      \strng{authorfullhash}{fbd7a782154ccf24dd997de7e57e8b2a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{There is currently much interest in the role that transport plays in promoting, or alleviating 'social exclusion'. Exclusionary processes are, of course, multi-dimensional and a mixture of physical barriers, financial constraints, time budgets, access difficulties and psychological aspects such as fear, all combine in various ways to prevent the use of transport facilities. In order to be able to understand more accurately the relationship between transport and social exclusion, a fuller understanding is required. Data gathered from households to examine the problems experienced by women, the elderly, and disabled, and public transport users in accessing key facilities and influences on lifestyle. Interviews of policymakers and public transport providers provides insights into the problems of providing public transport to meet social inclusion objectives. This book illustrates the nature of these exclusionary processes and indicates how policy and practice could be developed to counter these effects.}
+      \field{isbn}{978-1-315-23567-7}
+      \field{month}{3}
+      \field{shorttitle}{Transport {{Disadvantage}} and {{Social Exclusion}}}
+      \field{title}{Transport {{Disadvantage}} and {{Social Exclusion}}: {{Exclusionary Mechanisms}} in {{Transport}} in {{Urban Scotland}}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.4324/9781315235677
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/EERAZVZH/Hine e Mitchell - 2017 - Transport Disadvantage and Social Exclusion Exclusionary Mechanisms in Transport in Urban Scotland.pdf
+      \endverb
+    \endentry
+    \entry{lattman2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b66753e2b4ef007365b3c37bb0bb92d3}{%
+           family={Lättman},
+           familyi={L\bibinitperiod},
+           given={Katrin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d73271ca199d64346428a71b0ca9483}{%
+           family={Friman},
+           familyi={F\bibinitperiod},
+           given={Margareta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b12418d11f24a319024215635b6fbb9}{%
+           family={Olsson},
+           familyi={O\bibinitperiod},
+           given={Lars\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e838244bbde48a61dbfd39a3027227c1}
+      \strng{fullhash}{e838244bbde48a61dbfd39a3027227c1}
+      \strng{bibnamehash}{e838244bbde48a61dbfd39a3027227c1}
+      \strng{authorbibnamehash}{e838244bbde48a61dbfd39a3027227c1}
+      \strng{authornamehash}{e838244bbde48a61dbfd39a3027227c1}
+      \strng{authorfullhash}{e838244bbde48a61dbfd39a3027227c1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Katrin Lättman, Margareta Friman, Lars E. Olsson}
+      \field{issn}{2183-2803}
+      \field{journaltitle}{Social Inclusion}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Perceived {{Accessibility}} of {{Public Transport}} as a {{Potential Indicator}} of {{Social Inclusion}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{4}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{36\bibrangedash 45}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.17645/si.v4i3.481
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/H8L4DLPT/Lättman et al. - 2016 - Perceived Accessibility of Public Transport as a Potential Indicator of Social Inclusion.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cogitatiopress.com/socialinclusion/article/view/481
+      \endverb
+      \verb{url}
+      \verb https://www.cogitatiopress.com/socialinclusion/article/view/481
+      \endverb
+    \endentry
+    \entry{norgate2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=845aa4c715001cac011b6eb886349e5d}{%
+           family={Norgate},
+           familyi={N\bibinitperiod},
+           given={Sarah\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b38aec134885ade26474ec6ab2d3788}{%
+           family={{Cooper-Ryan}},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b18346d88f3bc8f22712ec743dcc866}{%
+           family={Lavin},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13bce14c34d539fa4884f06351e8384c}{%
+           family={Stonier},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=134d763f0d430d4e936bc63282015835}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c5335f8db5532d3e3b9808fa322b3dae}
+      \strng{fullhash}{36eaf9e8dceb1a652ad02813fbc4c32a}
+      \strng{bibnamehash}{c5335f8db5532d3e3b9808fa322b3dae}
+      \strng{authorbibnamehash}{c5335f8db5532d3e3b9808fa322b3dae}
+      \strng{authornamehash}{c5335f8db5532d3e3b9808fa322b3dae}
+      \strng{authorfullhash}{36eaf9e8dceb1a652ad02813fbc4c32a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1743-7199}
+      \field{journaltitle}{Health Psychology Review}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{The impact of public transport on the health of work commuters}
+      \field{title}{The impact of public transport on the health of work commuters: a systematic review}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{325\bibrangedash 344}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1080/17437199.2019.1618723
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17437199.2019.1618723
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17437199.2019.1618723
+      \endverb
+      \keyw{Commute,mental health,public transport,systematic review,well-being}
+    \endentry
+    \entry{rissel2012}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ec29694cd87939e81dd2a112ab1329d1}{%
+           family={Rissel},
+           familyi={R\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c1920038c5c9a8cfc584ce95fa575dd}{%
+           family={Curac},
+           familyi={C\bibinitperiod},
+           given={Nada},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6712b57414306e20cd96244dd4ea9347}{%
+           family={Greenaway},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9a013c79fcc27c7fa967ec3efabb90c}{%
+           family={Bauman},
+           familyi={B\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Molecular Diversity Preservation International}%
+      }
+      \strng{namehash}{80c1a1945facd75dbbeddf5001ab65fe}
+      \strng{fullhash}{fdc304087e38abd3e02d4941d7f0c5ab}
+      \strng{bibnamehash}{80c1a1945facd75dbbeddf5001ab65fe}
+      \strng{authorbibnamehash}{80c1a1945facd75dbbeddf5001ab65fe}
+      \strng{authornamehash}{80c1a1945facd75dbbeddf5001ab65fe}
+      \strng{authorfullhash}{fdc304087e38abd3e02d4941d7f0c5ab}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Active travel, particularly walking and cycling, has been recommended because of the health benefits associated with increased physical activity. Use of public transport generally involves some walking to bus stops or train stations. This paper is a systematic review of how much time is spent in physical activity among adults using public transport. It also explores the potential effect on the population level of physical activity if inactive adults in NSW, Australia, increased their walking through increased use of public transport. Of 1,733 articles, 27 met the search criteria, and nine reported on absolute measures of physical activity associated with public transport. A further 18 papers reported on factors associated with physical activity as part of public transport use. A range of 8–33 additional minutes of walking was identified from this systematic search as being attributable to public transport use. Using “bootstrapping” statistical modelling, if 20\% of all inactive adults increased their walking by only 16 minutes a day for five days a week, we predict there would be a substantial 6.97\% increase in the proportion of the adult population considered “sufficiently active”. More minutes walked per day, or a greater uptake of public transport by inactive adults would likely lead to significantly greater increases in the adult population considered sufficiently active.}
+      \field{issn}{1660-4601}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{Physical {{Activity Associated}} with {{Public Transport Use}}—{{A Review}} and {{Modelling}} of {{Potential Benefits}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{9}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{2454\bibrangedash 2478}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.3390/ijerph9072454
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/58CF2ASM/Rissel et al. - 2012 - Physical Activity Associated with Public Transport Use—A Review and Modelling of Potential Benefits.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1660-4601/9/7/2454
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1660-4601/9/7/2454
+      \endverb
+      \keyw{mass transit,physical activity,public transport,walking}
+    \endentry
+    \entry{saif2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ff71279ab00055b53966f401f5bc8af4}{%
+           family={Saif},
+           familyi={S\bibinitperiod},
+           given={Muhammad\bibnamedelima Atiullah},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48018248c707f773500ee86bb779c8fd}{%
+           family={Zefreh},
+           familyi={Z\bibinitperiod},
+           given={Mohammad\bibnamedelima Maghrour},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d52f989f173760b8b8cfc0a567d448cd}{%
+           family={Torok},
+           familyi={T\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2d81d00e81efe3b456e456646381316}
+      \strng{fullhash}{b2d81d00e81efe3b456e456646381316}
+      \strng{bibnamehash}{b2d81d00e81efe3b456e456646381316}
+      \strng{authorbibnamehash}{b2d81d00e81efe3b456e456646381316}
+      \strng{authornamehash}{b2d81d00e81efe3b456e456646381316}
+      \strng{authorfullhash}{b2d81d00e81efe3b456e456646381316}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Accessibility is one of the most important outcomes of the transportation system. Public transport can be more attractive by providing "Door to door mobility" and development of transportation services is an important factor of social quality. Public transport accessibility has gained vital importance in designing and evaluating the transit system in terms of mobility and sustainability. Apart from the transport system itself, public transport accessibility has the considerable impact on life satisfaction in the form of perceived accessibility. Moreover, researchers have revealed several impact and correlation of provision of public transport accessibility to the environment and daily life which would have a noticeable impact on public health and other aspects of public daily life. Furthermore, the correlation between public transport accessibility and job opportunities has attracted the researchers' attention in the literature. Also, public participation in social activities has been investigated based on public transport accessibility and their close connection has been revealed under the topic of social exclusion. In this paper, the available literature on public transport accessibility has been reviewed. As a conclusion, it should be highlighted that not just the performance of public transportation but its impact on other social aspects should be considered while planning the public transport facilities.}
+      \field{issn}{1587-3811}
+      \field{journaltitle}{Periodica Polytechnica Transportation Engineering}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{Public {{Transport Accessibility}}}
+      \field{title}{Public {{Transport Accessibility}}: {{A Literature Review}}}
+      \field{urlday}{9}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{47}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{36\bibrangedash 43}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3311/PPtr.12072
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/UN22WD8B/Saif et al. - 2019 - Public Transport Accessibility A Literature Revie.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pp.bme.hu/tr/article/view/12072
+      \endverb
+      \verb{url}
+      \verb https://pp.bme.hu/tr/article/view/12072
+      \endverb
+      \keyw{mobility,perceived accessibility,public health,public transport accessibility,social exclusion,sustainability}
+    \endentry
+    \entry{verbavatz2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4b910ffe344d55bdfd3610a460e21fdb}{%
+           family={Verbavatz},
+           familyi={V\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dccb20a7c90ae422e209daa791149063}{%
+           family={Barthelemy},
+           familyi={B\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{bcd8a3521cd531d4f8de2bcb611122ac}
+      \strng{fullhash}{bcd8a3521cd531d4f8de2bcb611122ac}
+      \strng{bibnamehash}{bcd8a3521cd531d4f8de2bcb611122ac}
+      \strng{authorbibnamehash}{bcd8a3521cd531d4f8de2bcb611122ac}
+      \strng{authornamehash}{bcd8a3521cd531d4f8de2bcb611122ac}
+      \strng{authorfullhash}{bcd8a3521cd531d4f8de2bcb611122ac}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Car traffic in urban systems has been studied intensely in past decades but models are either limited to a specific aspect of traffic or applied to a specific region. Despite the importance and urgency of the problem we have a poor theoretical understanding of the parameters controlling urban car use and congestion. Here, we combine economical and transport ingredients into a statistical physics approach and propose a generic model that predicts for different cities the share of car drivers, the CO2 emitted by cars and the average commuting time. We confirm these analytical predictions on 25 major urban areas in the world, and our results suggest that urban density is not the most relevant variable controlling car-related quantities but rather are the city’s area size and the density of public transport. Mitigating the traffic (and its effect such as CO2 emissions) can then be obtained by reducing the urbanized area size or, more realistically, by improving either the public transport density or its access. In particular, increasing the population density is a good idea only if it also increases the fraction of individuals having access to public transport.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLOS ONE}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{Critical factors for mitigating car traffic in cities}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{e0219559}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0219559
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/2HDN5ZIU/Verbavatz e Barthelemy - 2019 - Critical factors for mitigating car traffic in cities.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219559
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219559
+      \endverb
+      \keyw{Carbon dioxide,Cities,Human mobility,Population density,Roads,Transportation,Transportation infrastructure,Urban areas}
+    \endentry
+    \entry{worldbank_data}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Free and open access to global development data}
+      \field{journaltitle}{World Bank Open Data}
+      \field{langid}{english}
+      \field{title}{World {{Bank Open Data}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/WSBWDXFB/SP.URB.TOTL.IN.html
+      \endverb
+      \verb{urlraw}
+      \verb https://data.worldbank.org
+      \endverb
+      \verb{url}
+      \verb https://data.worldbank.org
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -34,6 +34,7 @@ We aggregated the data to calculate:
 The interactive maps can be found here:
 - <a href="https://savaij.github.io/map_paris/mappa_interattiva.html" target="_blank">connections map</a>
 - <a href="https://public.flourish.studio/visualisation/21416572/" target="_blank">times map</a>
+- <a href="https://savaij.github.io/map_paris/paris_buffers.html">buffer map</a>
 
 The static visualizations and data can be found here:
 - <a href="https://savaij.github.io/map_paris/reached_nodes.png" target="_blank">reached nodes graph</a>
@@ -54,14 +55,17 @@ This repository has the following structure:
 │   ├── coordinates.ipynb
 │   ├── richieste API.ipynb
 │   └── shapefiles_processing.ipynb
+├── paris_buffers.html
 ├── readme.md
 ├── shapefiles
 │   ├── espaces_verts.geojson
 │   ├── paris_arrondissement.geojson
 │   └── paris_arrondissement_no_green.geojson
-└── static_maps_data
-    ├── arrondissements_areas.csv
-    ├── paris_times.geojson
-    └── reached_nodes.png
+├── static_maps_data
+│   ├── arrondissements_areas.csv
+│   ├── paris_times.geojson
+│   └── reached_nodes.png
+└── tex_report
+
 ```
 

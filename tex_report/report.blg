@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'report.blg'
+[87] biber-darwin:340> INFO - === Wed Feb 12, 2025, 15:27:28
+[113] Biber.pm:418> INFO - Reading 'report.bcf'
+[187] Biber.pm:972> INFO - Found 12 citekeys in bib section 0
+[206] Biber.pm:4383> INFO - Processing section 0
+[220] Biber.pm:4574> INFO - Looking for bibtex file 'devoir_spatial.bib' for section 0
+[226] bibtex.pm:1713> INFO - LaTeX decoding ...
+[261] bibtex.pm:1518> INFO - Found BibTeX data source 'devoir_spatial.bib'
+[404] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[404] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[404] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[404] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[424] bbl.pm:654> INFO - Writing 'report.bbl' with encoding 'UTF-8'
+[435] bbl.pm:757> INFO - Output to report.bbl
